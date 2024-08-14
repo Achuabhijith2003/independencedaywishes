@@ -21,9 +21,7 @@ dist-ssr
 *.ntvs*
 *.njsproj
 *.sln
-*.sw?
 results
-ads.txt
 test.js
 # Local Netlify folder
 .netlify
